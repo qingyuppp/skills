@@ -36,7 +36,7 @@
 **Files:**
 - Modify: Git index and GitHub repository metadata.
 
-- [ ] **Step 1: Inspect the staged file list for only the intended skills and documentation.**
-- [ ] **Step 2: Commit the initial snapshot.**
-- [ ] **Step 3: Create a public GitHub repository named `skills`, add it as `origin`, and push the initial branch.**
-- [ ] **Step 4: Verify the remote URL, public visibility, and clean local status.**
+- [x] **Step 1: Inspect the staged file list for only the intended skills and documentation.**
+- [x] **Step 2: Commit the initial snapshot.**
+- [x] **Step 3: Create a public GitHub repository named `skills`, add it as `origin`, and push the initial branch.**
+- [x] **Step 4: Verify the remote URL, public visibility, and clean local status.**
