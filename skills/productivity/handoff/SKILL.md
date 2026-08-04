@@ -14,3 +14,8 @@ Do not duplicate content already captured in other artifacts (specs, plans, ADRs
 Redact any sensitive information, such as API keys, passwords, or personally identifiable information.
 
 If the user passed arguments, treat them as a description of what the next session will focus on and tailor the doc accordingly.
+
+After saving the document, end the reply with this sentence, replacing
+`<absolute-temp-handoff-path>` with the file's actual absolute path:
+
+辛苦了👋，请读取 `<absolute-temp-handoff-path>`，从交接记录继续工作。
