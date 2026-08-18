@@ -1,0 +1,5 @@
+interface:
+  display_name: "Paper"
+  short_description: "Obsidian 论文入库、带读、收尾全流程"
+policy:
+  allow_implicit_invocation: false
